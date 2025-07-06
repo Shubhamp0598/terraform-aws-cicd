@@ -475,3 +475,4 @@ Copyright © 2017-2024 [Cloud Posse, LLC](https://cpco.io/copyright)
 <img alt="Beacon" width="0" src="https://ga-beacon.cloudposse.com/UA-76589703-4/cloudposse/terraform-aws-cicd?pixel&cs=github&cm=readme&an=terraform-aws-cicd"/>
 Changelog: 2025-07-01
 Changelog: 2025-07-04
+Changelog: 2025-07-06
