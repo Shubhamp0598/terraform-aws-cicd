@@ -476,3 +476,4 @@ Copyright © 2017-2024 [Cloud Posse, LLC](https://cpco.io/copyright)
 Changelog: 2025-07-01
 Changelog: 2025-07-04
 Changelog: 2025-07-06
+Changelog: 2025-07-08
