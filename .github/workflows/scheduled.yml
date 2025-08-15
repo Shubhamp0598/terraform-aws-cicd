@@ -10,7 +10,7 @@ permissions:
   id-token: write
   contents: write
 
-jobs:
-  scheduled:
+#jobs:
+  #scheduled:
     uses: cloudposse/.github/.github/workflows/shared-terraform-scheduled.yml@main
     secrets: inherit
